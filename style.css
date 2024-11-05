@@ -1,0 +1,50 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+body{
+    margin-left: 30%;
+    margin-top: 15%;
+    background-image: url("Wallpaper\ Lion.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.h{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+div{
+    border: 3px solid transparent;
+    width: 400px;
+    text-align: center;
+    background-color: transparent;
+
+    
+    
+}
+.a{
+    width: 300px;
+    padding: 2px;
+    border-radius: 25px;
+     margin: 8px 0px;
+     border: 1px solid white;
+     background-color: transparent;
+     color: white;
+     text-indent: 10px;
+}
+p{
+    color: white;
+    display: inline;
+
+}
+
+.b{
+    width: 250px;
+    padding: 3px;
+    background-color: white;
+    border-radius: 25px;
+    border: 1px solid white;
+}
